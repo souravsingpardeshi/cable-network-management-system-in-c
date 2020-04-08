@@ -1,4 +1,6 @@
 name: C/C++ CI
+- name: C/C++ code linter (clang-tidy, clang-format, and cppcheck)
+  uses: ArtificialAmateur/cpp-linter-action@0.01
 
 on:
   push:
