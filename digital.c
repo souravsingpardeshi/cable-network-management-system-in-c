@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include<conio.h>
 int main()
 { int ch,x,total;
   printf("\n\t########## WELCOME TO SOURAVSING'S DIGITAL##########\n\t");
