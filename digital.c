@@ -1,6 +1,8 @@
+//cabl network management system
 #include <stdio.h>
 int main()
 { int ch,x,total;
+  //home page
   printf("\n\t########## WELCOME TO SOURAVSING'S DIGITAL##########\n\t");
   printf("\n\t*********OUR OFFERED PACKS********\n\t");
   printf("\n\tFOR SUBRCIPTION YOU NEED TO SUBSCRIBE TO OUR BASE PACK\n\tpress 153 for subscription");
