@@ -12,6 +12,7 @@ int main()
   printf("\n\t4.78Rs.Sony pack\n\t");
 printf("\n----------------------------------------------------------------------------\n");
 printf("\n\tyou are subscribed for base pack");
+//switch case for selection
 do{
   printf("enter your choice:");
   scanf("%d",&ch);
