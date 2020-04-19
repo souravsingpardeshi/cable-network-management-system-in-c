@@ -35,7 +35,8 @@ do{
     break;
   }
 }while(ch<5);
-  total=x+153;
+//total claculations
+total=x+153;
 printf("\n\tTHANKS FOR SUBSCRIBING\n\ttotal amount to be paid:%d.00Rs",total);
 printf("\n\tYOUR SERVICE WILL RESUME SHORTLY");
 printf("\n\t********************************");
